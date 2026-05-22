@@ -1,0 +1,6 @@
+{
+  "name": "Minha Voz",
+  "description": "Aplicativo de Comunicação Aumentativa e Alternativa (CAA) profissional para crianças autistas não verbais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
